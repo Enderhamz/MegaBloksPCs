@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.top-content {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.top-image {
+  width: 150px; /* You can change size */
+  border-radius: 8px; /* Optional: rounded corners */
+  margin-bottom: 10px;
+}
+
+h1 {
+  margin: 0;
+  color: #333;
+}
